@@ -1,0 +1,12 @@
+191226lmrDndsTo2/
+GO_annotation_ginseng.txt
+GO_annotation_ginseng.txt.xz
+GO_annotation_ginseng_list.txt
+GO_annotation_ginseng_list.txt.xz
+Panax_depth_1kw.txt.xz
+Z4_1.clean_val_1_bismark_bt2_pe.deduplicated.CX_report.txt.CX_report.txt.gz
+Z4_1.clean_val_1_bismark_bt2_pe.deduplicated.bismark.cov.gz
+collinearity.iso.xz
+phylogenyPCAvcftoolsPipeline/
+苦苣苔注释和比较基因组学分析结果文件.zip
+重测序技术一本通.pdf
